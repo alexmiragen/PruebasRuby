@@ -1,5 +1,5 @@
 def sum_words (text1, text2)
-	puts "Tus cadenas concatenadas son: #{text1} + #{text2}"
+	puts "Tus cadenas concatenadas son:" + text1 + text2
 end
 
 
